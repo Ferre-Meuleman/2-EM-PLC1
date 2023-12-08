@@ -5,7 +5,7 @@ worden. M.a.w. de lamp moet min. 3s aanblijven, ook al druk je tijdens deze 3s o
 drukknop **S0**.
 
 ## Statemachine:
-![]()
+![](https://i.ibb.co/Mpv9qcT/Oefeningen-St-Ma-Teleruptor-Tim.jpg)
 
 ## Code:
 ```SCL

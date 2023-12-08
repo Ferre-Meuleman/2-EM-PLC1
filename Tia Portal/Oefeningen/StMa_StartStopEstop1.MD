@@ -7,7 +7,7 @@ Bij indrukken van noodstop valt uitgang onmiddellijk uit. Indien echter de noods
 ontgrendeld (uitgetrokken) wordt, mag de uitgang pas terug aangeschakeld kunnen worden
 indien er eerst op een NO-drukknop (Reset-knop) gedrukt wordt.
 ## Statemachine:
-![]()
+![](https://i.ibb.co/5Y0gBD5/Oefeningen-St-Ma-Start-Stop-Estop1.jpg)
 ## Code:
 ```SCL
 //opstart
@@ -35,7 +35,7 @@ END_IF;
 //Ems
 IF "State".Idle & NOT "Estop"
     OR ("State".Action_on & NOT "Estop") THEN
-    
+
     "State".Idle := FALSE;
     "State".Action_on := FALSE;
     "State".Ems := TRUE;

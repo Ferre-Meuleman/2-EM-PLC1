@@ -5,7 +5,7 @@ Om te vermijden dat een machine onverwacht kan opstarten, als de bedrading van d
 als ze ingedrukt wordt ! Gebruik als uitgang **Lgr1** !
 
 ## Statemachine:
-![]()
+![](https://i.ibb.co/Y8wM1Rf/St-Ma-Gecontroleerde-Start.jpg)
 ## Code:
 ```SCL
 //opstart
@@ -18,7 +18,7 @@ als ze ingedrukt wordt ! Gebruik als uitgang **Lgr1** !
 
 IF "NR".Opstart
     OR ("State".Action_on AND NOT "S4")  THEN
-    "State".Idle := TRUE;
+    "State".Idle := TRUE;s
     "State".Action_on := FALSE;
 END_IF;
 

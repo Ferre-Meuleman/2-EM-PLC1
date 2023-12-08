@@ -11,7 +11,7 @@ noodstopknop ontgrendeld wordt dient Lre1 continu te branden totdat de Reset-kno
 ingedrukt wordt.
 
 ## Statemachine:
-![]()
+![](https://i.ibb.co/b7g98g4/Oefeningen-St-Ma-Start-Stop-Estop2.jpg)
 
 ## Code:
 ```SCL
