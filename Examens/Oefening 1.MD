@@ -11,7 +11,7 @@ Nadat Lgr1 gedoofd is moet Lor1 knipperen met f = 1 Hz, in **iDisplay1** moet te
 Wordt er op **S0** gedrukt, moet het systeem terug in de begintoestand komen. In de begintoestand staat in **iDispay1** de waarde 0.
 
 ### Statemachine:
-![](https://i.ibb.co/0sZJ7H8/oefening-1.png")
+![](https://i.ibb.co/BK9qw46/oefening-1.jpg)
 ### Code:
 ``` 
 //Opstart
