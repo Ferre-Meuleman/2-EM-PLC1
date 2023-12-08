@@ -98,27 +98,27 @@ END_IF;
 
 ```
 ### Controle:
--   Opstart PLC en S10 open
+1. Opstart PLC en S10 open
 <br> Na dicht-open-actie van S10 is Lgr1 gedurende 3s aan! 
 <br>iDisplay1 = 1
 <br>
 <br>
--   Opstart PLC en S10 dicht
+2. Opstart PLC en S10 dicht
 <br> → Lre1 knippert (5 Hz) en
 <br> → iDisplay1 = 2
 <br>
 <br>
--   Als S10 geopend wordt:
+3. Als S10 geopend wordt:
 <br>→ Lre1 dooft
 <br>→ Lgr1 gedurende 3s aan en
 <br>→ iDisplay1 = 1
 <br>
 <br>
--   Na 3s oplichten Lgr1:
+4. Na 3s oplichten Lgr1:
 <br>→ Lor1 knippert met f=1Hz
 <br>→ iDisplay1 = 3
 <br>
 <br>
--   Terug op SO drukken :
+5. Terug op SO drukken :
 <br>→ terug naar beginsituatie
 <br>→ iDisplay1 = 0
