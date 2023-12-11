@@ -3,8 +3,12 @@
 Indien **S10** True wordt, dient **iOut** (MW16) in functie van de tijd m.a.w. per 500 ms met 1
 geïncrementeerd te worden. Wanneer **S10** = 0 moet het incrementeren stoppen.
 Indien **S14** False wordt, moet **iOut** op nul komen.Maar met een extra variabele **iLimiet**. De **iOut**-waarde kan nu nooit groter worden dan **iLimiet** (MW18).
+
+
 ## Statemachine:
-![]()
+![](https://i.ibb.co/YRy37z6/Oefeningen-St-Ma-Integrator-Met-Limiet.jpg)
+
+
 ## Code:
 ```SCL
 //opstart

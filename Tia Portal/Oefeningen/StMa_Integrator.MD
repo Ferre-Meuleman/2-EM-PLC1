@@ -5,7 +5,7 @@ geïncrementeerd te worden. Wanneer **S10** = 0 moet het incrementeren stoppen.
 Indien **S14** False wordt, moet **iOut** op nul komen.
 
 ## Statemachine:
-![]()
+![](https://i.ibb.co/FB0Xsgm/Oefeningen-St-Ma-Integrator.jpg)
 ## Code:
 ```SCL
 //opstart

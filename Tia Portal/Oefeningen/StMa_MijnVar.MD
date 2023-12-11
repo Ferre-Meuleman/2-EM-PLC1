@@ -20,9 +20,9 @@ Als op **K6** gedrukt wordt, dienen **iVar1 … iVar4** in de DB gewist te worde
 **Lgr2** via **bZeroBit** uitgaan.
 
 ## Statemachine:
-![]()
+![](https://i.ibb.co/ZMkSy59/Oefeningen-St-Ma-Mijn-Var.jpgs)
 ## Code:
-```SCL
+```scl
     "PosFl".K4 := "K4" AND NOT "NR".K4_VorigeCycl;
     "NegFl".K4 := NOT "K4" AND "NR".K4_VorigeCycl;
     "NR".K4_VorigeCycl := "K4";
