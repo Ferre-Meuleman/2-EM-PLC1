@@ -96,6 +96,7 @@ END_IF;
 
 IF "State".Dec AND "PosFl".S2 THEN
     "Teller" := "Teller" - 1;
+    "PosFl".S2 := FALSE;
 END_IF;
 
 IF "State".Reset THEN
