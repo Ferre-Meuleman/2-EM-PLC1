@@ -9,8 +9,7 @@ Dan zijn er 2 mogelijkheden om met de machine te werken:
 <br>
 Je mag er van uitgaan dat beide schakelaars nooit tezamen dicht zijn.
 
-- Manuele mode (**S10** dicht):
-<br>
+- Manuele mode (**S10** dicht): <br>
    **Lre1** dooft, **Lgr2** knippert (**f = 2Hz**). <br>
    **Lor1** en **Lgr1** kunnen nu aangestuurd worden door respectievelijk **S1** en    **S2**, <br>
    dus **Lor1** is aan zolang **S1** ingedrukt wordt en idem met **Lgr1** en **S2**.<br>
